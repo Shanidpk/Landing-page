@@ -1,0 +1,18 @@
+.arch{
+    color:#8db600;
+    font-family: 'Raleway', sans-serif;
+}
+.nav-btn{
+    background-color: #0d4ef0;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    height: 30px;
+    width: 80px;
+
+}
+
+.nav-logo{
+    width: 30px;
+    height: 29px;
+}
