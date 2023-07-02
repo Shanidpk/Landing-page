@@ -101,7 +101,7 @@ section{
 }
 
 .load-more{
-    background-color: #2564;
-    width:120px;
-    padding: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 150px;
 }
